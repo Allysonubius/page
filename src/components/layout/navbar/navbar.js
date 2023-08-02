@@ -16,6 +16,7 @@ function Navbar(){
                         <span className={styles.titleNamePage}>Page</span>
                     </Link>
                     <Link to="/" className={styles.navItem}>Home</Link>
+                    <Link to="/contato" className={styles.navItem}>Contato</Link>
                 </nav>
             </section>
         </>
