@@ -1,3 +1,10 @@
 .footer{
+    display: grid;
+    place-content: center;
     text-align: center;
+    color: aliceblue;
+    font-size: 18px;
+    padding:1rem;
+    background-color: darkcyan;
+    font-family: 'Times New Roman', Times, serif;
 }

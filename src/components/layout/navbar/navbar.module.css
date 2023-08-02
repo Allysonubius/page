@@ -1,0 +1,43 @@
+.logo{
+    width: 30px;
+    margin-left: 20px;
+}
+
+.titleNamePage{
+    justify-content: center;
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.navLink{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navLink:hover{
+    color:darkgoldenrod;
+}
+
+.navbar{
+    display: flex;
+    background-color: cornflowerblue;
+    padding: 0.5rem;
+    align-items: center;
+    position: fixed;
+    left: 0;
+    right: 0;
+}
+
+.navItem{
+    margin-left: auto;
+    text-decoration: none;
+    color: burlywood;
+    margin-right: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navItem:hover{
+    color:darkgoldenrod;
+}
